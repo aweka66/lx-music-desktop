@@ -76,15 +76,15 @@
   },
   "macLanguagesInfoPlistStrings": {
     "en": {
-      "CFBundleDisplayName": "LX Music",
+      "CFBundleDisplayName": "乱撞音乐",
       "CFBundleName": "LX Music"
     },
     "zh_CN": {
-      "CFBundleDisplayName": "LX Music",
+      "CFBundleDisplayName": "乱撞音乐",
       "CFBundleName": "LX Music"
     },
     "zh_TW": {
-      "CFBundleDisplayName": "LX Music",
+      "CFBundleDisplayName": "乱撞音乐",
       "CFBundleName": "LX Music"
     }
   },
